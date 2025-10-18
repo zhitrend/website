@@ -2,6 +2,8 @@
 
 This is the official website for Tank Helper, a WOTBot assistant for World of Tanks.
 
+重新提交
+
 ## Getting Started
 
 First, install the dependencies:
