@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "howItWorks": "Fonctionnement",
+    "download": "Télécharger",
+    "documentation": "Documentation",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Améliorez votre expérience {{highlight}}",
+    "highlight": "World of Tanks",
+    "subtitle": "L'assistant WOTBot ultime pour un meilleur gameplay",
+    "cta": "Télécharger maintenant",
+    "github": "Voir sur GitHub"
+  },
+  "features": {
+    "title": "Fonctionnalités puissantes",
+    "description": "Tout ce dont vous avez besoin pour améliorer votre expérience World of Tanks",
+    "items": [
+      {
+        "title": "Combat automatisé",
+        "description": "Laissez le bot combattre pour vous avec une IA avancée"
+      },
+      {
+        "title": "Surveillance d'état",
+        "description": "Statut de combat et statistiques détaillées en temps réel"
+      },
+      {
+        "title": "Trajectoire intelligente",
+        "description": "Planification de trajectoire optimisée pour les déplacements de chars"
+      },
+      {
+        "title": "Gestion des clients",
+        "description": "Gérez facilement plusieurs clients de jeu"
+      },
+      {
+        "title": "Multi-comptes",
+        "description": "Gérez plusieurs comptes de jeu en toute simplicité"
+      },
+      {
+        "title": "Sécurisé & fiable",
+        "description": "Conçu pour la sécurité et la stabilité"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "description": "Commencez en quelques étapes simples",
+    "steps": [
+      "Téléchargez et installez Tank Helper",
+      "Configurez vos préférences et paramètres de jeu",
+      "Lancez le bot et profitez du jeu automatisé"
+    ]
+  },
+  "download": {
+    "title": "Prêt à commencer ?",
+    "description": "Téléchargez Tank Helper dès aujourd'hui et améliorez votre expérience World of Tanks",
+    "cta": "Télécharger maintenant"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "privacy": "Confidentialité",
+    "terms": "Conditions d'utilisation"
+  }
+}

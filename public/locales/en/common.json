@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "download": "Download",
+    "documentation": "Documentation",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Enhance Your {{highlight}} Experience",
+    "highlight": "World of Tanks",
+    "subtitle": "The ultimate WOTBot assistant for better gameplay",
+    "cta": "Download Now",
+    "github": "View on GitHub"
+  },
+  "features": {
+    "title": "Powerful Features",
+    "description": "Everything you need to enhance your World of Tanks experience",
+    "items": [
+      {
+        "title": "Automated Combat",
+        "description": "Let the bot handle the battles for you with advanced AI"
+      },
+      {
+        "title": "Status Monitoring",
+        "description": "Real-time battle status and detailed statistics"
+      },
+      {
+        "title": "Intelligent Pathing",
+        "description": "Smart path planning for optimal tank movement"
+      },
+      {
+        "title": "Client Management",
+        "description": "Easily manage multiple game clients"
+      },
+      {
+        "title": "Multi-Account",
+        "description": "Handle multiple game accounts with ease"
+      },
+      {
+        "title": "Secure & Reliable",
+        "description": "Built with security and stability in mind"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "description": "Get started in just a few simple steps",
+    "steps": [
+      "Download & Install",
+      "Configure Settings",
+      "Start Playing",
+      "Download and install Tank Helper on your computer",
+      "Configure your preferences and game settings",
+      "Launch the bot and enjoy automated gameplay"
+    ]
+  },
+  "download": {
+    "title": "Ready to Get Started?",
+    "description": "Download Tank Helper today and enhance your World of Tanks experience",
+    "cta": "Download Now"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

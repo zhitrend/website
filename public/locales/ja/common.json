@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "features": "機能",
+    "howItWorks": "使い方",
+    "download": "ダウンロード",
+    "documentation": "ドキュメント",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "title": "{{highlight}}の体験を向上",
+    "highlight": "ワールド・オブ・タンクス",
+    "subtitle": "より良いゲームプレイのための究極のWOTBotアシスタント",
+    "cta": "今すぐダウンロード",
+    "github": "GitHubで見る"
+  },
+  "features": {
+    "title": "強力な機能",
+    "description": "ワールド・オブ・タンクスのゲーム体験を向上させるすべての機能",
+    "items": [
+      {
+        "title": "自動戦闘",
+        "description": "高度なAIを搭載したボットが戦闘を代行"
+      },
+      {
+        "title": "ステータス監視",
+        "description": "リアルタイムの戦闘状況と詳細な統計情報"
+      },
+      {
+        "title": "インテリジェント経路",
+        "description": "戦車の最適な移動のためのスマートな経路計画"
+      },
+      {
+        "title": "クライアント管理",
+        "description": "複数のゲームクライアントを簡単に管理"
+      },
+      {
+        "title": "マルチアカウント",
+        "description": "複数のゲームアカウントを簡単に管理"
+      },
+      {
+        "title": "安全で信頼性の高い",
+        "description": "セキュリティと安定性を考慮して設計"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "使い方",
+    "description": "簡単な手順で今すぐ始められます",
+    "steps": [
+      "Tank Helperをダウンロードしてインストール",
+      "設定をカスタマイズ",
+      "ボットを起動して自動プレイを楽しむ"
+    ]
+  },
+  "download": {
+    "title": "今すぐ始めましょう",
+    "description": "Tank Helperをダウンロードして、ワールド・オブ・タンクスの体験を向上させましょう",
+    "cta": "今すぐダウンロード"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  }
+}

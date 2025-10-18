@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "howItWorks": "Anleitung",
+    "download": "Herunterladen",
+    "documentation": "Dokumentation",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Verbessern Sie Ihr {{highlight}}-Erlebnis",
+    "highlight": "World of Tanks",
+    "subtitle": "Der ultimative WOTBot-Assistent für besseres Gameplay",
+    "cta": "Jetzt herunterladen",
+    "github": "Auf GitHub ansehen"
+  },
+  "features": {
+    "title": "Leistungsstarke Funktionen",
+    "description": "Alles, was Sie für ein besseres World of Tanks-Erlebnis benötigen",
+    "items": [
+      {
+        "title": "Automatischer Kampf",
+        "description": "Lassen Sie den Bot mit fortschrittlicher KI für Sie kämpfen"
+      },
+      {
+        "title": "Statusüberwachung",
+        "description": "Echtzeit-Kampfstatus und detaillierte Statistiken"
+      },
+      {
+        "title": "Intelligente Wegfindung",
+        "description": "Intelligente Wegplanung für optimale Panzerbewegungen"
+      },
+      {
+        "title": "Client-Verwaltung",
+        "description": "Verwalten Sie mehrere Spiel-Clients ganz einfach"
+      },
+      {
+        "title": "Mehrfachkonten",
+        "description": "Verwalten Sie mehrere Spielkonten mit Leichtigkeit"
+      },
+      {
+        "title": "Sicher & zuverlässig",
+        "description": "Auf Sicherheit und Stabilität ausgelegt"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "So funktioniert's",
+    "description": "In nur wenigen einfachen Schritten startklar",
+    "steps": [
+      "Laden Sie Tank Helper herunter und installieren Sie es",
+      "Passen Sie Ihre Einstellungen an",
+      "Starten Sie den Bot und genießen Sie das automatisierte Spielen"
+    ]
+  },
+  "download": {
+    "title": "Bereit zum Starten?",
+    "description": "Laden Sie Tank Helper noch heute herunter und verbessern Sie Ihr World of Tanks-Erlebnis",
+    "cta": "Jetzt herunterladen"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen"
+  }
+}

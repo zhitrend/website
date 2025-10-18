@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "首页",
+    "features": "功能特点",
+    "howItWorks": "使用指南",
+    "download": "下载",
+    "documentation": "文档",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "提升您的{{highlight}}游戏体验",
+    "highlight": "坦克世界",
+    "subtitle": "终极WOTBot助手，助您游戏更轻松",
+    "cta": "立即下载",
+    "github": "GitHub 查看"
+  },
+  "features": {
+    "title": "强大功能",
+    "description": "全面提升您的坦克世界游戏体验",
+    "items": [
+      {
+        "title": "自动战斗",
+        "description": "让高级AI机器人帮您自动进行战斗"
+      },
+      {
+        "title": "状态监控",
+        "description": "实时监控战斗状态和详细数据统计"
+      },
+      {
+        "title": "智能路径",
+        "description": "智能路径规划，优化坦克移动路线"
+      },
+      {
+        "title": "客户端管理",
+        "description": "轻松管理多个游戏客户端"
+      },
+      {
+        "title": "多账号支持",
+        "description": "轻松管理多个游戏账号"
+      },
+      {
+        "title": "安全可靠",
+        "description": "注重安全性和稳定性设计"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "使用指南",
+    "description": "简单几步即可开始使用",
+    "steps": [
+      "下载安装",
+      "配置设置", 
+      "开始游戏",
+      "在电脑上下载并安装Wotbot",
+      "配置您的偏好和游戏设置",
+      "启动机器人，享受自动游戏体验"
+    ]
+  },
+  "download": {
+    "title": "准备开始了吗？",
+    "description": "立即下载Wotbot，提升您的坦克世界游戏体验",
+    "cta": "立即下载"
+  },
+  "footer": {
+    "rights": "保留所有权利",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  }
+}
